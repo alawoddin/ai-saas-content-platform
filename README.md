@@ -1,4 +1,4 @@
-# AI Content Generator (SaaS)
+#  AI SaaS Content Platform
 AI SaaS Content Platform
 Overview
 
